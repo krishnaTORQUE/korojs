@@ -1,6 +1,6 @@
 # KoroJs
 
-**v1.0 : _Stable_**
+**v1.0.1 : _Stable_**
 
 
 > #### _Description_
@@ -9,7 +9,7 @@ Write language / code in multiple language. Javascript Library.
 
 
 ```javascript
-const korojs = require('./index');
+const korojs = require('korojs');
 /**
  * Example
  */

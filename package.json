@@ -1,6 +1,6 @@
 {
   "name": "korojs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Write language / code in multiple language. Javascript Library.",
   "main": "index.js",
   "keywords": [

@@ -1,4 +1,4 @@
-const korojs = require('./index');
+const korojs = require('korojs');
 /**
  * Example
  */
